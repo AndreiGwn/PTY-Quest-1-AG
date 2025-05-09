@@ -359,6 +359,7 @@
 "Assets/Scripts/First person controller/GroundCheck.cs"
 "Assets/Scripts/First person controller/Jump.cs"
 "Assets/Scripts/Teleport.cs"
+"Assets/Scripts/TeleportPad.cs"
 -langversion:9.0
 /deterministic
 /optimize+
